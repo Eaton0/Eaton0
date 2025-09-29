@@ -1,4 +1,4 @@
-## Hello, I'm Yitong Lin 👋
+## 👋 Hello, I'm Yitong Lin 
 🎓 I am a Master's student at Zhejiang University, China, specializing in AI for Software Engineering (AI4SE) and Large Language Models (LLMs). 
 
 🚀 Passionate about LLM-related open source projects and cutting-edge research.
