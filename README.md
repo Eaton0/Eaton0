@@ -1,7 +1,7 @@
 ## Hello, I'm Yitong Lin 👋
 🎓 I am a Master's student at Zhejiang University, China, specializing in AI for Software Engineering (AI4SE) and Large Language Models (LLMs). 
 
-🚀 Passionate about open source and advancing AI + SE intersection.
+🚀 Passionate about LLM-related open source projects and cutting-edge research.
 
 📫 How to reach me: yalelin20030905@gmail.com
 
