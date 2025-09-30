@@ -3,6 +3,8 @@
 
 🚀 Passionate about LLM-related open source projects and cutting-edge research.
 
+🌐 View my homepage [here](https://eaton0.github.io/) for more details.
+
 📫 How to reach me: yalelin20030905@gmail.com
 
 <details><summary>📊Weekly Development Breakdown</summary>
