@@ -5,7 +5,7 @@
 
 🌐 View my homepage [here](https://eaton0.github.io/) for more details.
 
-📫 How to reach me: yalelin20030905@gmail.com
+📫 How to reach me: yitonglin0905@gmail.com
 
 <details><summary>📊Weekly Development Breakdown</summary>
 
