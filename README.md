@@ -12,15 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Total Time: 1 hr 27 mins
+Total Time: 0 secs
 
-JavaScript   26 mins               ███████▓░░░░░░░░░░░░░░░░░   30.79 %
-Bash         22 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-INI          20 mins               ██████░░░░░░░░░░░░░░░░░░░   23.64 %
-Python       9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Markdown     5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+JSON     0 secs                ███████████████████▒░░░░░   77.22 %
+JSONiq   0 secs                █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
 ```
 
 <!--END_SECTION:waka-->
