@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Total Time: 1 hr 47 mins
+Total Time: 7 hrs 23 mins
 
-TeX            37 mins               ████████▓░░░░░░░░░░░░░░░░   35.19 %
-JSON           29 mins               ███████░░░░░░░░░░░░░░░░░░   27.59 %
-Other          14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Markdown       12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-OpenEdge ABL   12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+TeX            3 hrs 51 mins         █████████████░░░░░░░░░░░░   52.16 %
+Other          1 hr 42 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Markdown       38 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+JSON           29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+OpenEdge ABL   23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
