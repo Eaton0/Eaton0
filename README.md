@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 11 hrs 1 min
+Total Time: 19 hrs 21 mins
 
-Python       4 hrs 17 mins         █████████▓░░░░░░░░░░░░░░░   38.90 %
-Markdown     2 hrs 27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
-Bash         2 hrs 7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Other        1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-SSH Config   29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Bash         8 hrs 15 mins         ██████████▓░░░░░░░░░░░░░░   42.65 %
+Markdown     6 hrs 6 mins          ████████░░░░░░░░░░░░░░░░░   31.53 %
+Python       2 hrs 9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Other        1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Diff         31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
