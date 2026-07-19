@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 16 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-Total Time: 69 hrs 49 mins
+Total Time: 55 hrs 43 mins
 
-Python       27 hrs 36 mins        ██████████░░░░░░░░░░░░░░░   39.54 %
-Markdown     14 hrs 43 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
-Bash         13 hrs 29 mins        ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Other        4 hrs 21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-JSON         3 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Python       15 hrs 53 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 %
+Bash         12 hrs 2 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
+Markdown     7 hrs 52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+YAML         6 hrs 40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Other        6 hrs 7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
 ```
 
 <!--END_SECTION:waka-->
