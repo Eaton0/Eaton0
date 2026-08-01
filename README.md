@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2026 - To: 30 July 2026
+From: 24 July 2026 - To: 31 July 2026
 
-Total Time: 11 hrs 55 mins
+Total Time: 18 hrs 56 mins
 
-Markdown       3 hrs 52 mins         ████████░░░░░░░░░░░░░░░░░   32.52 %
-Bash           2 hrs 57 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
-Python         2 hrs 36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-TeX            37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-BibTeX         36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Markdown       8 hrs 9 mins          ██████████▓░░░░░░░░░░░░░░   43.03 %
+Python         4 hrs 59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+Bash           1 hr 55 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Docker         1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+TeX            43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
