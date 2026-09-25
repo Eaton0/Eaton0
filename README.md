@@ -12,11 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-Total Time: 0 secs
+Total Time: 35 hrs 25 mins
 
-No activity tracked
+Markdown     17 hrs 27 mins        ████████████▒░░░░░░░░░░░░   49.30 %
+Python       12 hrs 33 mins        █████████░░░░░░░░░░░░░░░░   35.44 %
+TeX          2 hrs 52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+JSON         49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+YAML         48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
