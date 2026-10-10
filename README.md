@@ -12,11 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 25 mins
 
-No activity tracked
+TeX        1 hr 14 mins          █████████░░░░░░░░░░░░░░░░   36.27 %
+Text       59 mins               ███████▒░░░░░░░░░░░░░░░░░   28.70 %
+Other      41 mins               █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+Markdown   30 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
 ```
 
 <!--END_SECTION:waka-->
