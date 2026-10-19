@@ -12,11 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-Total Time: 0 secs
+Total Time: 5 hrs 54 mins
 
-No activity tracked
+JavaScript   2 hrs 57 mins         ████████████▓░░░░░░░░░░░░   50.21 %
+Python       59 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Markdown     48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Other        43 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+TeX          24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
