@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2026 - To: 20 October 2026
+From: 14 October 2026 - To: 21 October 2026
 
-Total Time: 2 hrs 26 mins
+Total Time: 1 hr 45 mins
 
-JavaScript   1 hr 11 mins          ████████████░░░░░░░░░░░░░   48.65 %
-Other        43 mins               ███████▒░░░░░░░░░░░░░░░░░   29.90 %
-TeX          24 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-Markdown     6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other        43 mins               ██████████▒░░░░░░░░░░░░░░   41.67 %
+JavaScript   32 mins               ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+TeX          24 mins               ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Markdown     3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
